@@ -1,0 +1,10 @@
+# .gitignore file for ~/development/presenter-docs project.
+
+# Ignore files with specific file name extensions.
+*.pdf
+*.tex
+
+# Ignore all files in specific directories.
+.git/
+pdf-out/
+.packages/

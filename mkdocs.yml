@@ -1,0 +1,10 @@
+site_name: Presenter User Guide
+
+nav:
+  - Home: index.md
+  - Presenter: start-up.md
+
+theme:
+  name: slate # spacelab
+  nav_style: dark # primary|dark|light
+
