@@ -10,11 +10,11 @@ might already be running, or it might have been shut down.
 >
 > **To brighten (or dim) the display:**
 >
-> 1.  To brighten the display, on the top row of keys, press **F3**
+> 1. To brighten the display, on the top row of keys, press **F3**.
 >     ![](./assets/images/brightness_up_thumb.png)
-> 2.  To dim the display, press **F2**
+> 2. To dim the display, press **F2**.
 >     ![](./assets/images/brightness_down_thumb.png)
-> 3.  Adjust the display brightness as needed.
+> 3. Adjust the display brightness as needed.
 
 If **Presenter** is not already running, launch the application.
 
@@ -23,5 +23,6 @@ If **Presenter** is not already running, launch the application.
 On the right side of the display, in the **Dock**, double click the
 **Presenter** icon ![](./assets/images/presenter_icon.png)
 
-**Presenter** will open to the main screen
+**Presenter** will open to the main screen:
+
 ![](./assets/images/main-screen.png)
