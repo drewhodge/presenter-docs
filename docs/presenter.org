@@ -1,3 +1,4 @@
-#+INCLUDE: "index.org"
-#+INCLUDE: "about.org"
 #+INCLUDE: "start-up.org"
+#+INCLUDE: "services.org"
+#+INCLUDE: "projecting.org"
+#+INCLUDE: "troubleshooting.org"

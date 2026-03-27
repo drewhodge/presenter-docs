@@ -1,5 +1,7 @@
 * Launching and starting Presenter
 
+** Arriving at the projection desk
+
 When you open the projection computer, the *Presenter* application might already be running, or it might have been shut down.
 
 #+begin_quote
@@ -17,4 +19,8 @@ If *Presenter* is not already running, launch the application.
 
 ** Start Presenter
 
-  On the right side of the display, in the *Dock*, double click *Presenter* [[file:./assets/images/presenter_icon.png]]
+   On the right side of the display, in the *Dock*, double click the *Presenter* icon [[file:./assets/images/presenter_icon.png]]
+
+
+  *Presenter* will open to the main screen
+  [[file:./assets/images/main-screen.png]]

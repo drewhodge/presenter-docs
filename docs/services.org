@@ -1,0 +1,15 @@
+* Services
+
+*Presenter's* main window shows a menu bar, a *Quick Start* bar and a *Recents* list--a list of recently opened services. Services
+
+** To open a service:
+
+   1. Identify the service you want to open; each has a name, a date and title for the day of the liturgical season. For example:
+      *Mar 22*
+      *5th Sunday of Lent 10am*
+   2. If the service is listed in the *Recents* list, click the service's name.
+   3. If the service is not listed in the *Recents* list, in the *Quick Start* bar, click *Open Service*; or in the menu bar, click *Services*.
+   4. In the list of service, click the one you want to open.
+      *Note:*  If you don't see your service listed, click *View All* to expand the list.
+
+*Presenter* displays the service as individual sections, or items, on the left side of the window.

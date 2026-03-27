@@ -1,0 +1,5 @@
+# Troubleshooting
+
+## WiFi/Network issues
+
+**SSID:** Church **Password:** Maty400Carmel

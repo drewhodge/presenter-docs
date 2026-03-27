@@ -3,8 +3,32 @@ site_name: Presenter User Guide
 nav:
   - Home: index.md
   - Presenter: start-up.md
+  - Services: services.md
+  - Projecting: projecting.md
+  - Troubleshooting: troubleshooting.md
 
 theme:
-  name: slate # spacelab
+  name: mkdocs # spacelab slate mkdocs readthedocs
   nav_style: dark # primary|dark|light
 
+plugins:
+  - search
+  - print-site: # https://timvink.github.io/mkdocs-print-site-plugin/print_page.html
+      add_to_navigation: true
+      print_page_title: 'Print Site'
+      print_page_basename: 'print_page'
+      add_print_site_banner: false
+      # Table of contents
+      add_table_of_contents: true
+      toc_title: 'Table of Contents'
+      toc_depth: 6
+      # Content-related
+      add_full_urls: false
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+      cover_page_template: ""
+      path_to_pdf: ""
+      include_css: true
+      enabled: true
+      exclude:
